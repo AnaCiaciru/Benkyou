@@ -1,0 +1,51 @@
+body
+{background-image: url(gallery.jpg);
+ background-repeat: no-repeat;
+ background-attachment: fixed;    
+}
+
+.bgt
+{width:630px;
+ height:400px;
+ margin: 20px;
+}
+
+#pe
+{color:#1F0129;
+ font-size: 30px;
+ font-family: "Comic Sans MS";   
+ border: 2px solid #6F2059;
+ padding: 30px;  
+ background-color: #EDAAE8;
+ width: 500px;    
+}
+
+#pe1
+{color:#78091D;
+ font-size: 30px;
+ font-family: "Comic Sans MS";   
+ border: 2px solid #FDB2E9;
+ padding: 30px;  
+ background-color: #FFD2F3;
+ width: 500px;    
+}
+
+#pe2
+{color:#1E6C00;
+ font-size: 30px;
+ font-family: "Comic Sans MS";   
+ border: 2px solid #FDF161;
+ padding: 30px;  
+ background-color: #FFF68A;
+ width: 500px;    
+}
+
+#pe3
+{color:#020255;
+ font-size: 30px;
+ font-family: "Comic Sans MS";   
+ border: 2px solid #ACACAD;
+ padding: 30px;  
+ background-color: #DBDADD;
+ width: 500px;    
+}

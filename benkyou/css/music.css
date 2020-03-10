@@ -1,0 +1,65 @@
+
+body
+{background-image: url(music.jpg);
+ background-repeat: no-repeat;
+ background-attachment: fixed;
+}
+
+#mu
+{width:800px;
+ height:500px;
+ border: 2px solid black;    
+}
+
+#pe
+{color:#690421;
+ font-size: 30px;
+ font-family: "Comic Sans MS";   
+ border: 2px solid #B4667C;
+ padding: 30px;  
+ background-color: #FFCFDD;
+ width: 500px;    
+}
+
+#sal
+{color:#1F0129;
+ font-size: 20px;
+ font-family: "Comic Sans MS";   
+ border: 2px solid #C298D0;
+ padding: 30px;  
+ background-color: #D5B7DF;
+ width: 300px; 
+ margin: 10px; 
+ margin-left:100px;  
+}
+#sall
+{color:#1F0129;
+ font-size: 20px;
+ font-family: "Comic Sans MS";   
+ border: 2px solid #C298D0;
+ padding: 30px;  
+ background-color: #D5B7DF;
+ width: 400px;  
+ margin-right:100px;  
+ float:right;
+}
+
+.ceva
+{margin-right: 100px;
+ float:right; 
+ border: 3px solid black;
+ background-color: black;    
+}
+.cev
+{margin-left: 100px; 
+ float:left;    
+ border: 3px solid black;
+ background-color: black; 
+ margin-top:35px;    
+}
+
+#ce
+{text-align: center;
+ color:#A40000;  
+ font-size: 30;    
+}

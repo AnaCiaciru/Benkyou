@@ -1,0 +1,136 @@
+body
+{background-image: url(p4.jpg);
+ background-repeat: no-repeat;
+ background-attachment: fixed;
+ background-position: center; 
+}
+
+#pe
+{color:#1F0129;
+ font-size: 30px;
+ font-family: "Comic Sans MS";   
+ border: 2px solid #6F2059;
+ padding: 30px;  
+ background-color: #B487A7;
+ width: 400px;  
+ text-align: center;
+ margin-top:30px;
+ float:right;
+}
+
+#pe1
+{color:#1F0129;
+ font-size: 20px;
+ font-family: "Comic Sans MS";   
+ border: 2px solid #FF8181;
+ padding: 30px;  
+ background-color: #F19292;
+ height: 65px;    
+ width: 500px;  
+ text-align: center; 
+ float:right; 
+ margin-top:-55px;
+ margin-bottom: -23px;    
+}
+#pe2
+{color:#1F0129;
+ font-size: 20px;
+ font-family: "Comic Sans MS";   
+ border: 2px solid #B0A9A9;
+ padding: 30px;  
+ background-color: #BFBFBF;   
+ text-align: center; 
+ float:right; 
+ margin-left:300px;    
+}
+
+#pe3
+{color:#3E0606;
+ font-family: "Comic Sans MS";   
+ border: 2px solid #D28E8E;
+ padding: 30px;  
+ background-color: #DFB1B1;   
+ text-align: center; 
+ width: 600px;   
+}
+
+#pe4
+{color:#3E0606;
+ font-family: "Comic Sans MS";   
+ border: 2px solid #67FDDE;
+ padding: 10px;  
+ background-color: #C0FFF2;   
+ text-align: center; 
+ width: 500px;
+ float: right;
+ margin-top: -60px;
+ font-size: 18px;    
+}
+
+.container {
+    position: relative;
+    text-align: center;
+    color: black;
+    width: 700px;
+    float:right;
+    padding: 5px;    
+}
+
+.top-left 
+{position: absolute;
+ top: 180px;
+ left: 85px;
+ width: 300px;
+ height: 130px; 
+ background-color: darkgray;    
+ opacity: 0.8;
+ padding: 5px;    
+}
+
+p
+{text-align: center;    
+ letter-spacing: 1px;
+ margin-left: 20px;  
+ margin-right: 20px;    
+ border: 2px solid purple;
+ width: 500px;
+ background-color:bisque;
+ margin-top: 40px;
+ padding: 20px;    
+}
+
+#food
+{border:2px solid black;
+ margin-top: 30px;
+ float:right;    
+}
+
+#sam
+{width:700px;
+ margin-left:-6px;
+ margin-top: -320;    
+}
+
+.cont {
+    position: relative;
+    text-align: center;
+    color: black;
+    padding: 5px; 
+    font-size: 14px;
+    font-family: "Comic Sans MS";   
+}
+
+.samu
+{position: absolute;
+ top: 5px;
+ left: 30px;
+ width: 300px;
+ height: 130px;     
+ padding: 5px;   
+}
+
+#teatru
+{width: 600px;
+ float:right;    
+ margin-top:20px;    
+}

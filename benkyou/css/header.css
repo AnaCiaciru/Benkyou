@@ -1,0 +1,157 @@
+#nav {
+  height: 70px;
+  background: transparent; // Transparent initial setting
+  display: block;
+  position: fixed;
+  width: 100%;
+  z-index: 99999;
+  transition: all ease .5s;
+}
+
+#cv
+{ height: 5px;
+  background: black; 
+  display: block;
+  width: 100%;
+  
+}
+
+#logo {
+  color: #7E0000;
+  transition: all ease .5s;
+  font-family: "Harrington";
+  font-size: 30px;    
+  margin-right: 245px;
+  width: 115px;  
+ float: left;    
+}
+*{
+	margin: 0;
+	padding: 0;
+	list-style: none;
+	text-decoration: none;
+}
+
+.slider{
+	overflow: hidden;
+	height: 400px;
+    position: center; 
+}
+
+.slider figure div{
+	width: 20%;
+	float: left;
+}
+
+.slider figure img{
+	width: 100%;
+	float: center;
+    position: center;
+    height: 500px;
+    width:100%;
+}
+
+body 
+{ height: 500px;
+  width: 100%;
+  background-size: cover;
+  background-position: center;
+  position: relative;
+  margin: 0px;
+  padding: 0px;    
+}
+
+#nav.shrink {
+  height: 90px;
+  width: 100%;    
+  transition: all ease .5s;
+  background-image: url(hed.jpg);// Change background to black on scroll
+}
+
+#nav.shrink #logo {
+  padding: 10px;
+  transition: all ease .5s;
+}
+
+
+.slider figure{
+	position: relative;
+	width: 500%;
+	margin: 0;
+	left: 0;
+	animation: 60s slidy infinite;
+}
+
+@keyframes slidy{
+	0%{
+		left: 0%
+	}
+
+	10%{
+		left: 0%;
+	}
+
+	12%{
+		left: -100%;
+	}
+
+	22%{
+		left: -100%;
+	}
+
+	24%{
+		left: -200%;
+	}
+
+	34%{
+		left: -200%;
+	}
+
+	36%{
+		left: -300%;
+	}
+
+	46%{
+		left: -300%;
+	}
+
+	48%{
+		left: -400%;
+	}
+
+	58%{
+		left: -400%;
+	}
+
+	60%{
+		left: -300%;
+	}
+
+	70%{
+		left: -300%;
+	}
+
+	72%{
+		left: -200%;
+	}
+
+	82%{
+		left: -200%;
+	}
+
+	84%{
+		left: -100%;
+	}
+
+	94%{
+		left: -100%;
+	}
+
+	96%{
+		left: 0%;
+	}
+
+	100%{
+		left: 0%;
+	}
+}

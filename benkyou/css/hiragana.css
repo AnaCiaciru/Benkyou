@@ -1,0 +1,64 @@
+body
+{background-image: url(back.jpg);
+ background-repeat: no-repeat;
+ background-attachment: fixed;
+ background-position: center; 
+}
+
+.ll
+{margin: 60px;
+ margin-top:50px;    
+ color: #531D08;    
+ font-family: "Comic Sans MS";    
+ border: 4px solid #E8A991;
+ font-size: 40px;
+ background-color: #F8B69C;
+ text-align: center; 
+ height: 60px;
+ width: 460px;
+ padding: 40px;
+ border-radius: 70px; 
+ text-shadow: 2px 2px #3E3E3E;
+ float:right;    
+}
+
+#pa
+{font-family:"Vivaldi";
+ font-size:80px;
+ width: 400px;
+ margin-top:150px;
+ margin-left: 600px;    
+    
+     
+}
+
+#imga
+{height: 300px;    
+ float:right;
+ margin-right: 170px;    
+}
+
+#imgg
+{height: 300px;
+ margin-left: 90px;
+ margin-top: -430px;
+ float:right;   
+ margin-right: 60px;    
+}
+
+#so
+{margin-top:80px;
+ margin-left: 150px;  
+}
+
+#paragraf
+{font-family: "Comic Sans MS"; 
+ background-color: #E3DCD7;
+ border: 2px solid #BFBFBF;
+ border-radius: 10px;
+ width: 800px;
+ text-align: center;
+ margin-left: 450px; 
+ font-size: 20px; 
+ padding: 20px;    
+}

@@ -1,0 +1,63 @@
+body
+{background-image: url(t5.jpg);
+ background-repeat: no-repeat;
+ background-attachment: fixed;
+ background-position: center; 
+ background-size:  1600px 700px;   
+}
+
+.top-right 
+{position: absolute;
+ top: 20px;
+ right: 15px;
+}
+
+.text-block 
+{   background: rgba(0, 0, 0, 0.5); /* Black background with transparency */
+    color: #f1f1f1;
+    width: 500px;
+    padding: 10px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+#b
+{color:#CDCDCD;
+ font-size: 60px;
+ font-family: "Harrington";  
+ text-align: center; 
+ text-shadow: 2px 2px #3E3E3E;
+ margin-top: 0px;    
+}
+#j
+{color:#E9E9E9;
+ font-size: 20px;
+ font-family: "Comic Sans MS";  
+ text-align: center;
+ text-shadow: 2px 2px #3E3E3E;       
+}
+
+a:link, a:visited 
+{   background-color: #D0CFCF;
+    opacity: 0.8;
+    color:#2E0606;
+    padding: 12px 23px;
+    text-align: center;
+    font-size: 20px;
+    font-family: "Comic Sans MS";
+    text-decoration: none;
+    display: inline-block;
+}
+
+
+a:hover, a:active {
+    background-color:#8E8E8E;
+}
+
+#logoo
+{height: 110px;
+ margin-left: 250px;
+ margin-bottom: -50px;    
+}

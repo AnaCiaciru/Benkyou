@@ -1,0 +1,22 @@
+body
+{background-image: url(fundal.jpg);
+ background-repeat: no-repeat;
+ background-attachment: fixed;    
+}
+
+.po
+{width:630px;
+ height:400px;
+ margin: 20px;
+}
+
+#pe
+{color:#1F0129;
+ font-size: 30px;
+ font-family: "Comic Sans MS";   
+ border: 2px solid #6F2059;
+ padding: 30px;  
+ background-color: #B487A7;
+ width: 500px;    
+ margin-top: 10px;    
+}
